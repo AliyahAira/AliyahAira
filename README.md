@@ -1,4 +1,4 @@
-## Hi there, My name is Aliyah Aira A. Llana !! ฅ^•ﻌ•^ฅ👋
+## Hi there, My name is Aliyah Aira A. Llana !! ฅ^•ﻌ•^ฅ
 
 ## About Me 👩
 I am Aliyah Aira Llana, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Computer Science program.
