@@ -8,7 +8,7 @@ I am Aliyah Aira Llana, with a flair for coding and database management skills. 
 ## Education: 🏫
 BS Computer Science
 New Era University
-2021-Present
+2022-Present
 
 ## Certification: 🏆
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB796EB6F0216E9155C559EEB2EBBFAF78A17CAAA1039EB646803148AE468A92)
