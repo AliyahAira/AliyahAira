@@ -17,9 +17,9 @@ New Era University
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ae69ae6e65c646c1b52105133c6be76c)
 
 ## Skill sets: 🖥️
-Programming :  Java, Javascript
-Databases: IBM DB2 Cloud
-Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+-Programming :  Java, Javascript
+-Databases: IBM DB2 Cloud
+-Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 
 You may reach me at:
